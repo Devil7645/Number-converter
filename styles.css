@@ -27,7 +27,7 @@
 
 .heading {
   text-align: center;
-  font-family: cursive;
+  font-family: Serif;
   color: white;
   border-radius: 0.5rem;
 }
@@ -50,7 +50,7 @@
   font-size: 2.4rem;
   color: black;
   background-color: lightyellow;
-  font-family: cursive;
+  font-family: Serif;
 }
 
 #input-box {
@@ -62,7 +62,7 @@
   width: 19rem;
   border-radius: 0.6rem;
   font-size: 2rem;
-  font-family: cursive;
+  font-family: Serif;
   border: 2px solid lightblack;
 }
 
@@ -89,7 +89,7 @@ textarea {
   font-size: 2.4rem;
   color: black;
   background-color: lightyellow;
-  font-family: cursive;
+  font-family: Serif;
 }
 
 .output-box {
@@ -101,7 +101,7 @@ textarea {
 
 p {
   background-color: lightyellow;
-  font-family: cursive;
+  font-family: Serif;
   font-size: 2rem;
   text-align: center;
 }
